@@ -2,9 +2,9 @@ const colors = require("../../src/styles/colors");
 
 module.exports = {
   siteTitle: "Tim Blazina", // <title>
-  shortSiteTitle: "WTF", // <title> ending for posts and pages
-  siteDescription: "WTF",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  shortSiteTitle: "Tim Blazina", // <title> ending for posts and pages
+  siteDescription: "Tim Blazina",
+  siteUrl: "https://timblazina.rocks",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
