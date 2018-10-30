@@ -4,9 +4,6 @@ title: About
 
 This is my site.
 
-### What do you want:
+### Here is some content:
 
-```python
-def shit(bag):
-    return bag
-```
+and here is some more
